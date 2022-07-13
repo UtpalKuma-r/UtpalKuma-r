@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **UtpalKuma-r/utpalkuma-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,15 +8,22 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...4P4X.gif
+- 🌱 I’m currently learning php
 -->
 
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/4P4X" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Utpal <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="5eKX.gif" width="230">
+
+</em></p>
 
 
-- 🌱 I’m currently learning php
 
-- 📫 How to reach me: <a href="www.linkedin.com/in/findutpalkumar"> LinkedIn </a>
-
-- ⚡ Fun fact: The first programming language was called FORTRAN
-
+```javascript
+const utpal = {
+    pronouns: "He" | "Him",
+    code: ["Python", "PHP"],
+    askMeAbout: ["web dev", "tech"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
