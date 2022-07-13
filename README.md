@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
+<p align='center' ><img class='top' style="border-radius:50%;"height='200' src= 'https://i.gifer.com/4P4X.gif'></p>
+
 
 - 🌱 I’m currently learning php
 
