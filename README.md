@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning php
+-     🌱 I’m currently learning php
 
-- 📫 How to reach me: <a href="www.linkedin.com/in/findutpalkumar"> LinkedIn </a>
+-     📫 How to reach me: <a href="www.linkedin.com/in/findutpalkumar"> LinkedIn </a>
 
-- ⚡ Fun fact: The first programming language was called FORTRAN
+-     ⚡ Fun fact: The first programming language was called FORTRAN
 
