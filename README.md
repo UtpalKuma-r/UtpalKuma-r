@@ -27,4 +27,4 @@ const utpal = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-<--  Not coppied from https://github.com/anmol098 ;> -->
+<!--  Not coppied from https://github.com/anmol098  ;>-->
