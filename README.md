@@ -19,12 +19,27 @@ Here are some ideas to get you started:
 
 
 
-```javascript
-const utpal = {
-    pronouns: "He" | "Him",
-    code: ["Python", "PHP"],
-    askMeAbout: ["web dev", "tech"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```python
+class utpal():
+    def __init__(self):
+        self.name = "Utpal"
+        self.code = ["python", "PHP", "HTML", "CSS"]
+        self.pronouns = ["He", "His"]
+        self.location = "INDIA"
+        self.current_work = "working on project for SMART INDIA HACKATHON(SIH)"
+        
+    def sayHi(self):
+        print("Welcome to my page. Nice to see you here.")
+
+    def funFact(self):
+        print("Here is a fun fact:- To write an error fre code, don't write it.")
+
+    def about(self):
+        print(f"Hi, my name is {self.name}. I am from {self.location}.")
+        print(f"I can code in {self.code}. I am currently {self.current_work}.")
+
+Utpal = utpal()
+Utpal.sayHi()
+Utpal.about()
+Utpal.funFact()
 ```
-<!--  Not coppied from https://github.com/anmol098  ;>-->
