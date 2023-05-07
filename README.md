@@ -24,7 +24,7 @@ class utpal():
         self.code = ["python", "PHP", "HTML", "CSS"]
         self.pronouns = ["He", "His"]
         self.location = "INDIA"
-        self.current_work = "working on project for SMART INDIA HACKATHON(SIH)"
+        self.current_work = "working on my own projects"
         
     def sayHi(self):
         print("Welcome to my page. Nice to see you here.")
