@@ -30,7 +30,7 @@ class utpal():
         print("Welcome to my page. Nice to see you here.")
 
     def funFact(self):
-        print("Here is a fun fact:- To write an error fre code, don't write it.")
+        print("Here is a fun fact:- To write an error free code, don't write it.")
 
     def about(self):
         print(f"Hi, my name is {self.name}. I am from {self.location}.")
