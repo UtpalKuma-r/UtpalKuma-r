@@ -41,7 +41,8 @@ Utpal.sayHi()
 Utpal.about()
 Utpal.funFact()
 ```
-Find me:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/_utpalkumar/"><img src="Instagram_logo_2016.svg.webp" height="15" width="15">&nbsp;&nbsp;_utpalkumar</a>
+Find me:&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/_utpalkumar/"><img src="Instagram_logo_2016.svg.webp" height="15" width="15">&nbsp;&nbsp;_utpalkumar</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/findutpalkumar/"><img src="unnamed.png" height="15" width="15">&nbsp;&nbsp;Utpal Kumar</a>
 
